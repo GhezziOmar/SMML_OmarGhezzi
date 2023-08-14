@@ -1,0 +1,1 @@
+\begin{tabular}{rrrrrr}\toprule Gamma &  Alpha &  Training_accuracy &  Test_accuracy &  Exp. training acc. estimate &  Accuracy estimate (Exp. stat. acc. estimate) \\\midrule    15 &      5 &           0.479499 &       0.477584 &                     0.479499 &                                      0.477584 \\\bottomrule\end{tabular}

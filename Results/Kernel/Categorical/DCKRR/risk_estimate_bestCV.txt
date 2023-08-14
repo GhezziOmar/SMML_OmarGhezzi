@@ -1,0 +1,1 @@
+\begin{tabular}{rrrr}\toprule Hyperparameter 1 &  Hyperparameter 2 &  Exp. training acc. estimate &  Accuracy estimate \\\midrule                5 &                15 &                     0.479499 &           0.477584 \\\bottomrule\end{tabular}
