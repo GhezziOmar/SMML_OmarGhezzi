@@ -34,6 +34,6 @@ The directory 'Reports' contains two PDF files:
 - KernelRidgeRegression: this report offers an analysis of the outcomes when utilizing Kernel Ridge Regression (with a Gaussian kernel) to predict music track popularity on Spotify.
 
 The choice to create two distinct PDF documents, along with the comprehensive coverage that surpasses the usual 15-16 page limit, arises from our aim to thoroughly explore and synthesize the theoretical foundation associated with the "statistical learning framework" and "RHKS theory". These subjects, while covered during lectures, were also enriched with insights from external sources. Our main objective is to provide a detailed illustration of how we bridged theoretical concepts to practical application, rather than merely focusing on coding and presenting outcomes. 
-
+For a more concise yet comprehensive read that requires less time, you can focus on the **methods** and **results** sections in the PDF reports, skipping the **theoretical background** section.
 
  
